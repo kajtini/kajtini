@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajetan Kowalski</h1>
-<img align="right" alt="Coding" width="400" src="https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Typescript**
+
 - 📫 How to reach me **kowalskikajetan824@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
