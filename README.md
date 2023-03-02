@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux, Firebase**
 
-- 👨‍💻 My portfolio webiste with some of my projects [https://portfolio-kk-dev.netlify.app/](https://portfolio-kk-dev.netlify.app/)
+- 👨‍💻 My portfolio webiste [https://portfolio-kk-dev.netlify.app/](https://portfolio-kk-dev.netlify.app/)
 
 - 📫 How to reach me **kowalskikajetandev@gmail.com**
 
