@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kajetan Kowalski</h1>
-- 🔭 I’m currently working on [Event Wave](https://github.com/kajtini/EventSpot)
+- 🔭 I’m currently working on [Event Spot](https://github.com/kajtini/EventSpot)
 
 - 🌱 I’m currently learning **PostgreSQL, Next.js 14**
 
